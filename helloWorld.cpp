@@ -10,7 +10,7 @@ int main () {
 
     cin >> name;
     
-    cout << "Hello " << name << ".\n";
+    cout << "Goodbye " << name << ".\n";
 
     return 0;
 }
